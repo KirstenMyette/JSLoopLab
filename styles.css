@@ -12,6 +12,9 @@ text-align: center;
     background-color: #D826A3;
     height: 10em;
     text-align: center;
+}
+
+.friend p {
     text-transform: uppercase;
 }
 
